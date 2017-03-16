@@ -1,1 +1,4 @@
+ServerNotice.egg-info
 *.pyc
+build
+dist
